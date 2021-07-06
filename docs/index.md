@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Daniel Martinez's Resume
 ---
-# Brigham Young
+# Daniel Martinez
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
