@@ -3,12 +3,11 @@ layout: cv
 title: Daniel Martinez's Resume
 ---
 # Daniel Martinez
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="iodaniel@byui.edu">iodaniel@byui.edu</a>
 | <a href="https://iodaniel.github.io">Portforlio</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/daniel-martinez-98034832/">LinkedIn</a>
 | <a href="https://github.com/iodaniel">GitHub</a>
 </div>
 
