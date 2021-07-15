@@ -33,10 +33,12 @@ __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
 
 ## Certifications
 `in progress, Expected 2021`
-__Microsoft Certification in Azure__ 
+__Microsoft Certification in Azure__
+
+---
 
 ## Related Experience
-
+---
 ### Director Manager
 
 `November 2018 - present`
