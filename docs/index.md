@@ -16,7 +16,8 @@ title: Daniel Martinez's Resume
 
 ## Education
 `2002-2008`
-__Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua
+__Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua, Mexico.
+
 `2019-2020`
 __Certificate Computer Programming__ Brigham Young University - Idaho, Rexburg, ID
 
