@@ -15,7 +15,7 @@ title: Daniel Martinez's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
-:mortar_board:
+
 `2002-2008`
 __Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua, Mexico.
 
@@ -26,7 +26,7 @@ __Certificate Computer Programming__ Brigham Young University - Idaho, Rexburg, 
 __Certificate Front End__ Brigham Young University - Idaho, Rexburg, ID
 
 `2020-2021`
-__Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin
+__Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin,Austin, TX
 
 `Expected 2024`
 __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
@@ -58,7 +58,8 @@ __Nutriente LLC__, El Paso, TX
 `April 2015 - June 2019`
 __Nuevo Hogar LLC__, El Paso, TX 
 
--Leadership with supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in home.	
+-Leadership with supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in home.
+
 -Orientation to new caregivers to improve client satisfaction.
 
 `September 2027 - April 2028`
@@ -83,15 +84,16 @@ __Pinnacle Management Group__,
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Projects
 
 
-## Service and Work History
+## Skills
 
 `2025-2027`
 __Math Tutor__, LDSBC
 
 
-__Skills__, Fluent in Spanish 
+__Languaje__, Fluent in Spanish 
 
 
 
