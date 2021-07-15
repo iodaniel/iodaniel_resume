@@ -30,8 +30,12 @@ __Certificate Front End__ Brigham Young University - Idaho, Rexburg, ID
 `Expected 2024`
 __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
 
+## Certifications
+`in progress, Expected 2021`
+__Microsoft Certification in Azure__ 
 
-## Certificates
+## language 
+Spanish and English
 
 ## Related Experience
 
