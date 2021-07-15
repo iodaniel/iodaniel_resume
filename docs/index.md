@@ -14,7 +14,7 @@ title: Daniel Martinez's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education
+## Education :mortar_board:
 `2002-2008`
 __Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua, Mexico.
 
@@ -45,8 +45,11 @@ Spanish and English
 __Nutriente LLC__, El Paso, TX 
 
 -Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
+
 -Develop websites for potential clients to improve the business opportunity preview.
+
  -Manage a team to  develop websites for clients.
+
  -entrepenorship you gain experience per risk and get out from your comfort zone and explore new posibilities.
 
 ### PAS Supervisor
@@ -87,8 +90,7 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Skills__, Fluent in Spanish 
 
 
 
