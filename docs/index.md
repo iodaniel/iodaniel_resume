@@ -14,7 +14,8 @@ title: Daniel Martinez's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
-## Education :mortar_board:
+## Education
+:mortar_board:
 `2002-2008`
 __Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua, Mexico.
 
