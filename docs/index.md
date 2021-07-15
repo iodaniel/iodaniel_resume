@@ -17,15 +17,14 @@ title: Daniel Martinez's Resume
 ## Education
 `2002-2008`
 __Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua
-
-`2020-2021`
-__Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin
-
 `2019-2020`
 __Certificate Computer Programming__ Brigham Young University - Idaho, Rexburg, ID
 
 `2020-2021`
 __Certificate Front End__ Brigham Young University - Idaho, Rexburg, ID
+
+`2020-2021`
+__Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin
 
 `Expected 2024`
 __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
@@ -41,12 +40,12 @@ Spanish and English
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`November 2018 - June 2028`
+__Nutriente LLC__, El Paso, TX 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+-Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.		
+-Develop websites for potential clients to improve the business opportunity preview.
+ -Manage a team to  develop websites for clients.
 
 ### Data Science Lead
 
