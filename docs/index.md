@@ -35,9 +35,6 @@ __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
 `in progress, Expected 2021`
 __Microsoft Certification in Azure__ 
 
-## language 
-Spanish and English
-
 ## Related Experience
 
 ### Director Manager
@@ -45,11 +42,11 @@ Spanish and English
 `November 2018 - present`
 __Nutriente LLC__, El Paso, TX 
 
--Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
++ Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
 
--Develop websites for potential clients to improve the business opportunity preview.
+- Develop websites for potential clients to improve the business opportunity preview.
 
- -Manage a team to  develop websites for clients.
+ * Manage a team to  develop websites for clients.
 
  -entrepenorship you gain experience per risk and get out from your comfort zone and explore new posibilities.
 
