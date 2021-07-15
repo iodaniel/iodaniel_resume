@@ -38,23 +38,23 @@ Spanish and English
 
 ## Related Experience
 
-### Internships
+### Director Manager
 
-`November 2018 - June 2028`
+`November 2018 - present`
 __Nutriente LLC__, El Paso, TX 
 
--Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.		
+-Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
 -Develop websites for potential clients to improve the business opportunity preview.
  -Manage a team to  develop websites for clients.
+ -entrepenorship you gain experience per risk and get out from your comfort zone and explore new posibilities.
 
-### Data Science Lead
+### PAS Supervisor
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2015 - June 2019`
+__Nuevo Hogar LLC__, El Paso, TX 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+-Leadership with supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in home.	
+-Orientation to new caregivers to improve client satisfaction.
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
