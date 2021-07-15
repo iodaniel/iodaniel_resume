@@ -5,6 +5,7 @@ title: Daniel Martinez's Resume
 # Daniel Martinez
 
 <div id="webaddress">
+
 <a href="iodaniel@byui.edu">iodaniel@byui.edu</a>
 | <a href="https://iodaniel.github.io">Portforlio</a>
 | <a href="https://www.linkedin.com/in/daniel-martinez-98034832/">LinkedIn</a>
@@ -16,11 +17,11 @@ title: Daniel Martinez's Resume
 ## Education
 
 `2020-2021`
-__Posgradute degree__, Salt Lake City, UT
+__Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
+`Expected 2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
