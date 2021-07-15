@@ -44,11 +44,11 @@ __Microsoft Certification in Azure__
 `November 2018 - present`
 __Nutriente LLC__, El Paso, TX 
 
-+ Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
+- Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
 
 - Develop websites for potential clients to improve the business opportunity preview.
 
- * Manage a team to  develop websites for clients.
+- Manage a team to  develop websites for clients.
 
  -entrepenorship you gain experience per risk and get out from your comfort zone and explore new posibilities.
 
@@ -83,6 +83,8 @@ __Pinnacle Management Group__,
 - Proof of concept development of dashboards using client's corporate data.
 - Built and documented differences of PowerBI, Google Dashoards, and Tableau.
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+
+
 ## Projects
 
 
