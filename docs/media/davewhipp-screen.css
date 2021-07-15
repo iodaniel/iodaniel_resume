@@ -2,6 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -56,7 +57,7 @@ body {
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: Roboto;
 	margin-top: 1em;
 	margin-left: 1em;
 }
@@ -73,7 +74,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: Roboto;
 	color: #aaa;
 }
 
@@ -115,7 +116,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Roboto;
 	width: 80%;
 }
 
@@ -165,7 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #bc412b;
+	color: #0a9df6;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
