@@ -85,9 +85,6 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Projects
-
-
 ## Skills
 
 `2025-2027`
