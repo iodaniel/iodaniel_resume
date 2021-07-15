@@ -15,17 +15,23 @@ title: Daniel Martinez's Resume
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+`2002-2008`
+__Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua
 
 `2020-2021`
 __Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin
 
-- Full academic scholarship with 4.0 GPA
+`2019-2020`
+__Certificate Computer Programming__ Brigham Young University - Idaho, Rexburg, ID
+
+`2020-2021`
+__Certificate Front End__ Brigham Young University - Idaho, Rexburg, ID
 
 `Expected 2024`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
 
-- 4.0 Major GPA
 
+## Certificates
 
 ## Related Experience
 
