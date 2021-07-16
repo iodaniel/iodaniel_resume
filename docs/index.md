@@ -40,7 +40,7 @@ __Microsoft Certification in Azure__
 ## Related Experience
 
 
-### Director Manager
+### Web Developer
 
 `November 2018 - present`
 __Nutriente LLC__, El Paso, TX 
