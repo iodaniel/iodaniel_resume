@@ -36,10 +36,7 @@ __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
 __Microsoft Certification in Azure__
 
 ---
-
 ## Related Experience
-
-
 
 
 ### Web Developer
