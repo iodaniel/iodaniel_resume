@@ -40,18 +40,22 @@ __Microsoft Certification in Azure__
 ## Related Experience
 
 
+
+
 ### Web Developer
 
 `November 2018 - present`
-__Nutriente LLC__, El Paso, TX 
+__Nutriente LLC__, El Paso, TX
 
-- Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
+-Develop websites for business in El Paso, TX.
 
-- Develop websites for potential clients to improve the business opportunity preview.
+-Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
 
-- Manage a team to  develop websites for clients.
+-Develop websites for potential clients to improve the business opportunity preview.
 
- -entrepenorship you gain experience per risk and get out from your comfort zone and explore new posibilities.
+-Manage a team to  develop websites for clients.
+
+- 
 
 ### PAS Supervisor
 
@@ -69,7 +73,7 @@ __Good2Go__, Consultant
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+### Data Scie
 
 `January 2027 - April 2027`
 __Imagine Learning__
