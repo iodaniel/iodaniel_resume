@@ -71,6 +71,10 @@ __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
  
 
 ## Projects
+-avtrucksales.com is a platform to sell and use trucks and increase sales for the owner of that business project to help the local economy of my town.
+-nutrioo.com a website focused on nutrition services unfortunately out of services.
+-Hackeaton problem Linear regression prediction for heart rate in greatlearing.in
+
 
 ## Skills
 
@@ -78,7 +82,7 @@ __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
 - __Machine Learning Modeling:__ Classification, Regression, K-Means Clustering
 - __Database Language:__ MySQL, SQL					
 - __Data Extraction Tool:__ Matplotlib, Altair, Pandas 
-- __Neural Network:__ Computer vision, Natural Language Processing (NLP)
+-__AI:__ neural network, computer vision, Natural Language Processing (NLP)
 - __Programming Languages:__ Python, C++, HTML, CSS, JS, Java 
 - __Languaje:__, Fluent in Spanish 
 
