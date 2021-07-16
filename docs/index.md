@@ -88,6 +88,7 @@ __Pinnacle Management Group__,
 - __Database Language:__ MySQL, SQL					
 - __Data Extraction Tool:__ Matplotlib, Altair, Pandas 
 - __Neural Network:__ Computer vision, Natural Language Processing (NLP)
+- __Programming Languages:__ Python, C++, HTML, CSS, JS, Java 
 - __Languaje:__, Fluent in Spanish 
 
 
