@@ -88,12 +88,12 @@ __Pinnacle Management Group__,
 
 ## Skills
 
-Data preprocessing, Feature Engineering
-__Machine Learning Modeling:__ Classification, Regression, K-Means Clustering
-__Database Language:__ MySQL, SQL					
-__Data Extraction Tool:__ Matplotlib, Altair, Pandas 
-__Neural Network:__ Computer vision, Natural Language Processing (NLP)
-__Languaje__, Fluent in Spanish 
+- Data preprocessing, Feature Engineering
+- __Machine Learning Modeling:__ Classification, Regression, K-Means Clustering
+- __Database Language:__ MySQL, SQL					
+- __Data Extraction Tool:__ Matplotlib, Altair, Pandas 
+- __Neural Network:__ Computer vision, Natural Language Processing (NLP)
+- __Languaje:__, Fluent in Spanish 
 
 
 
