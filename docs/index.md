@@ -63,23 +63,14 @@ __Nuevo Hogar LLC__, El Paso, TX
 
 -Orientation to new caregivers to improve client satisfaction.
 
+`Febreary 2010 - April 2015`
+__La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
+-Leadership with supervising 150 employees and managing 100 clients with social security services, that received benefits of provider services and caregiver in home.	
 
-### Data Scie
+-Orientation to new caregivers to improve client satisfaction.
+ 
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+## Projects
 
 ## Skills
 
