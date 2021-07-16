@@ -72,7 +72,7 @@ __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
 
 ## Projects
 
-- avtrucksales.com is a platform to sell and use trucks and increase sales for the owner of that business project to help the local economy of my town.
+- avtrucksales.com is a platform to sell and use trucks and increase sales for the owner of that business.
 - nutrioo.com a website focused on nutrition services unfortunately out of services.
 - Hackeaton problem Linear regression prediction for heart rate in greatlearing.in
 
