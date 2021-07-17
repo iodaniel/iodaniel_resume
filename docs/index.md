@@ -83,9 +83,9 @@ __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
 - __Machine Learning Modeling:__ Classification, Regression, K-Means Clustering
 - __Database Language:__ MySQL, SQL					
 - __Data Extraction Tool:__ Matplotlib, Altair, Pandas 
--__AI:__ neural network, computer vision, Natural Language Processing (NLP)
-- __Programming Languages:__ Python, C++, HTML, CSS, JS, Java 
-- __Languaje:__, Fluent in Spanish 
+- __AI:__ neural network, computer vision, Natural Language Processing (NLP)
+- __Programming Languages:__ Python, C++, HTML, CSS, JS, Java
+- __Languaje:__ Fluent in Spanish 
 
 
 
