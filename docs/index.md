@@ -18,7 +18,7 @@ title: Daniel Martinez's Resume
 
 `2002-2008`
 __Bachelor in Science of Nutrition__, Universidad Autonoma De Ciudad Juarez, Ciudad Juarez Chihuahua, Mexico.
-
+Global GPA 3.47
 `2019-2020`
 __Certificate Computer Programming__ Brigham Young University - Idaho, Rexburg, ID
 
@@ -30,7 +30,7 @@ __Post Graduate Program in Artificial Intelligence and Machine Learning: Busines
 
 `Expected 2024`
 __Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
-
+Global GPA 3.33
 ## Certifications
 `in progress, Expected 2021`
 __Microsoft Certification in Azure__
@@ -44,13 +44,13 @@ __Microsoft Certification in Azure__
 `November 2018 - present`
 __Nutriente LLC__, El Paso, TX
 
--Develop websites for business in El Paso, TX.
+- Develop websites for business in El Paso, TX.
 
--Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
+- Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
 
--Develop websites for potential clients to improve the business opportunity preview.
+- Develop websites for potential clients to improve the business opportunity preview.
 
--Manage a team to  develop websites for clients.
+- Manage a team to  develop websites for clients.
 
 - 
 <!--Some of the wording here isn't clear.-->
@@ -59,16 +59,16 @@ __Nutriente LLC__, El Paso, TX
 `April 2015 - June 2019`
 __Nuevo Hogar LLC__, El Paso, TX 
 
--Leadership with supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in home.
+- Leadership and supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in the home.
 
--Orientation to new caregivers to improve client satisfaction.
+- Orientation and training with employees to new caregivers to improve client satisfaction.
 
 `February 2010 - April 2015`
-__La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
--Leadership with supervising 150 employees and managing 100 clients with social security services, that received benefits of provider services and caregiver in home.	
+__La Familia Home Health__, El Paso, TX - PAS Supervisor
+- Leadership and supervising 150 employees and managing 100 clients with social security services, that received benefits of provider services and caregiver in home.	
 
 <!--What does this mean? Did you perform the orientation? Create it? -->
--Orientation to new caregivers to improve client satisfaction.
+- Orientation and training for new and currenly employees explain rules and regulation, and the services provide by the state of Texas and improve client satisfaction.
  
 
 ## Projects
@@ -94,5 +94,5 @@ __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
+Last update: July 2021
 
