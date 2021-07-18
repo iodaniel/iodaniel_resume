@@ -13,7 +13,7 @@ title: Daniel Martinez's Resume
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
-
+<!--Adding your GPA here could be useful, if it's a good GPA-->
 ## Education
 
 `2002-2008`
@@ -53,7 +53,7 @@ __Nutriente LLC__, El Paso, TX
 -Manage a team to  develop websites for clients.
 
 - 
-
+<!--Some of the wording here isn't clear.-->
 ### PAS Supervisor
 
 `April 2015 - June 2019`
@@ -63,20 +63,22 @@ __Nuevo Hogar LLC__, El Paso, TX
 
 -Orientation to new caregivers to improve client satisfaction.
 
-`Febreary 2010 - April 2015`
+`February 2010 - April 2015`
 __La familia Home Health__, El Paso, TX - PAS Supervisor Feb. 2010 - April 2015
 -Leadership with supervising 150 employees and managing 100 clients with social security services, that received benefits of provider services and caregiver in home.	
 
+<!--What does this mean? Did you perform the orientation? Create it? -->
 -Orientation to new caregivers to improve client satisfaction.
  
 
 ## Projects
 
-- avtrucksales.com is a platform to sell and use trucks and increase sales for the owner of that business.
-- nutrioo.com a website focused on nutrition services unfortunately out of services.
+- avtrucksales.com: A platform to sell and use trucks and increase sales for the owner of that business.
+- nutrioo.com: A website focused on nutrition services unfortunately out of services.
+<!--Check the spelling here. Maybe you meant greatlearning? What's the .in?-->
 - Hackeaton problem Linear regression prediction for heart rate in greatlearing.in
 
-
+<!-- Very clear and well organized-->
 ## Skills
 
 - Data preprocessing, Feature Engineering
