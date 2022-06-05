@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Daniel Martinez's Resume
+title: Daniel Marz's Resume
 ---
-# Daniel Martinez
+# Daniel Marz
 
 <div id="webaddress">
 
