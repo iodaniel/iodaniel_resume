@@ -29,7 +29,7 @@ __Certificate Front End__ Brigham Young University - Idaho, Rexburg, ID
 __Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications__, The University of Texas at Austin,Austin, TX
 
 `Expected 2024`
-__Bachelor in Software Engineer__ Brigham Young University - Idaho, Rexburg, ID
+__Bachelor in Applied Technology__ Brigham Young University - Idaho, Rexburg, ID
 Global GPA 3.33
 ## Certifications
 `in progress, Expected 2021`
@@ -39,18 +39,17 @@ __Microsoft Certification in Azure__
 ## Related Experience
 
 
-### Web Developer
+### Web Developer Freelancer
 
 `November 2018 - present`
 __Nutriente LLC__, El Paso, TX
 
-- Develop websites for business in El Paso, TX.
+- Developed websites for potential clients and enhance business opportunity.
 
-- Involved in website development, UX experience and customer research for a website focus in nutrition science for the LATAM market.
+- Coordinated workflow with software engineer and designer to work on projects. 
 
-- Develop websites for potential clients to improve the business opportunity preview.
+- Collaborated in website development process including UX experience and design on a website nutrioo.com a food tracker.
 
-- Manage a team to  develop websites for clients.
 
 - 
 <!--Some of the wording here isn't clear.-->
@@ -59,9 +58,10 @@ __Nutriente LLC__, El Paso, TX
 `April 2015 - June 2019`
 __Nuevo Hogar LLC__, El Paso, TX 
 
-- Leadership and supervising 200 employees and managing 150 clients with social security services, that received benefits of provider services and caregiver in the home.
+- Supervised 200 employees and managing 150 clients with social security services.
 
-- Orientation and training with employees to new caregivers to improve client satisfaction.
+- Conducted orientation to new caregivers and training for caregiver services.
+- Generated official reports for the case workers with the objective to inform the necessities of the clients and request more assistance. 
 
 `February 2010 - April 2015`
 __La Familia Home Health__, El Paso, TX - PAS Supervisor
